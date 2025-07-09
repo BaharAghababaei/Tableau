@@ -34,5 +34,5 @@ This project presents two interactive Tableau dashboards designed to visualize a
 
 
 ## 📁 Files Included
-- `Sales and Customer dashboard.twbx`: Tableau workbook file
+- `dashboard/Sales and Customer dashboard.twbx`: Tableau workbook file
 - `images/`: Contains preview screenshots of the dashboards
