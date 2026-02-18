@@ -38,4 +38,4 @@ This project presents two interactive Tableau dashboards designed to visualize a
 - `images/`: Contains preview screenshots of the dashboards
 
 📝 Note:  
-This dashboard was created as part of my self-directed learning in Tableau using a synthetic dataset. I independently built and designed the dashboard to strengthen my skills in BI tools and data visualization.
+This dashboard was created as part of my internship at Data Delights.
